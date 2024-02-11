@@ -1,5 +1,6 @@
 # CodeCoverageReport
-Install following packages 
+Install following packages
+
 pip install pytest
 pip install pytest-cov
 
